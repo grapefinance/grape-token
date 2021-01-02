@@ -4,7 +4,6 @@ This package includes Grape Token solidity code negotiated on http://grapeswap.l
  
 
 ## Local Development
-
   
 ### Local Development Setup
 1. Ganache
@@ -27,7 +26,7 @@ development: {
 ``` 
 
 ### Local Development Build
-1. In a separate termianl
+1. In a separate terminal
 ```bash
 ganache-cli
 ``` 
